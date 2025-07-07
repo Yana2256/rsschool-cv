@@ -10,6 +10,7 @@ My goal is to learn programming and explore all the subtle points. I am a purpos
 - CSS
 - HTML
 - GIT/GitHub
+- VS Code
 ## Code Example
 ```js
 let a = Number(prompt())
