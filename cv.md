@@ -24,3 +24,7 @@ if (a>=16 && a<=65 && !isNaN(a)) {
 ## Education
 - Rolling Scopes School
 - Completed additional courses in software development
+## Languages:
+- English: Intermediate
+- Russian: Native
+- Belarusian: Native
