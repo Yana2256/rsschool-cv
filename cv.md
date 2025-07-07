@@ -21,3 +21,6 @@ if (a>=16 && a<=65 && !isNaN(a)) {
     console.log("Доступ запрещен")
 }
 ```
+## Education
+- Rolling Scopes School
+- Completed additional courses in software development
