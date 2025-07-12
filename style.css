@@ -1,0 +1,129 @@
+
+.horizontal-menu {
+    list-style: none; 
+    padding: 0;
+    margin: 0;
+    display: flex; 
+    gap: 20px;
+    justify-content: center;
+}
+
+.horizontal-menu li a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+header {
+    background-color: rgb(225, 219, 211);
+    text-align: center;
+}
+
+.mainmain {
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    margin-top: 40px;
+}
+
+.contacts {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: large;
+    border: 2px solid #333;         /* рамка */
+    border-radius: 15px;            /* закругления */
+    padding: 5px;                  /* внутренние отступы */
+    max-width: 400px;               /* ограничение ширины */
+    margin: 20px auto;              /* центрирование блока */
+    background-color: #f9f9f9;      /* светлый фон (по желанию) */
+    font-family: Arial, sans-serif;
+}
+
+.abm {
+     display: flex;
+     flex-direction: column;
+    align-items: center;
+    font-size: large;
+    border: 2px solid #333;         /* рамка */
+    border-radius: 15px;            /* закругления */
+    padding: 5px;                  /* внутренние отступы */
+    max-width: 1100px;               /* ограничение ширины */
+    margin: 20px auto;              /* центрирование блока */
+    background-color: rgb(225, 219, 211);      /* светлый фон (по желанию) */
+    font-family: Arial, sans-serif;
+}
+
+.skills {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: large;
+    border: 2px solid #333;         /* рамка */
+    border-radius: 15px;            /* закругления */
+    padding: 0px;                  /* внутренние отступы */
+    max-width: 300px;               /* ограничение ширины */
+    margin: 20px auto;              /* центрирование блока */
+    background-color: #f9f9f9;      /* светлый фон (по желанию) */
+    font-family: Arial, sans-serif;
+}
+
+.code {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 300px;
+    margin-top: 40px;
+    border: 2px solid #333;         /* рамка */
+    border-radius: 15px;            /* закругления */
+    padding: 0px;                  /* внутренние отступы */
+    max-width: 500px;               /* ограничение ширины */
+    margin: 20px auto;              /* центрирование блока */
+    background-color: #f9f9f9;      /* светлый фон (по желанию) */
+    font-family: Arial, sans-serif;
+}
+
+.edu {
+       display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: large;
+    border: 2px solid #333;         /* рамка */
+    border-radius: 15px;            /* закругления */
+    padding: 0px;                  /* внутренние отступы */
+    max-width: 400px;               /* ограничение ширины */
+    margin: 20px auto;              /* центрирование блока */
+    background-color: #f9f9f9;      /* светлый фон (по желанию) */
+    font-family: Arial, sans-serif;
+}
+
+.lang {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: large;
+    border: 2px solid #333;         /* рамка */
+    border-radius: 15px;            /* закругления */
+    padding: 0px;                  /* внутренние отступы */
+    max-width: 300px;               /* ограничение ширины */
+    margin: 20px auto;              /* центрирование блока */
+    background-color: #f9f9f9;      /* светлый фон (по желанию) */
+    font-family: Arial, sans-serif;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    background-color:rgb(225, 219, 211) ;
+}
+
+.img {
+    height: 40px;
+}
+
+.foot {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
